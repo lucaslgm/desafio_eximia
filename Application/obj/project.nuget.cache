@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjkjBr03bA0OOvjGce85RsplEppn+eebIOU6eWlRbnkZPYe/X/T+0Arld6JaqEonPCnR9CWbyfWh5t0Lp76BjQ==",
+  "success": true,
+  "projectFilePath": "/home/lucaslgm/repositories/eximia/desafio_eximia/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/home/lucaslgm/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/lucaslgm/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/lucaslgm/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/lucaslgm/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/lucaslgm/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
